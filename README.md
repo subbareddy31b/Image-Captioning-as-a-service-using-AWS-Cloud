@@ -50,17 +50,17 @@ This repository contains an implementation of an **Image Captioning System** usi
 ![download](https://github.com/user-attachments/assets/e25e4257-86e0-4948-b21c-85a7a3f6a128)
 
 ## Key Features
-🔍 Comparison of five architectures for image captioning.
-🎨 Implementation of attention mechanism to enhance caption generation.
-💾 Pretrained models for efficient training and evaluation.
-🌍 Cloud Deployment for scalable, near real-time predictions.
+- 🔍 Comparison of five architectures for image captioning.
+- 🎨 Implementation of attention mechanism to enhance caption generation.
+- 💾 Pretrained models for efficient training and evaluation.
+- 🌍 Cloud Deployment for scalable, near real-time predictions.
 
 ## Technologies Used
-🐍 Python
-🧠 TensorFlow/Keras
-📊 NumPy, Pandas
-📈 Matplotlib for visualization
+- 🐍 Python
+- 🧠 TensorFlow/Keras
+- 📊 NumPy, Pandas
+- 📈 Matplotlib for visualization
 
 ## Future Enhancements
-🗂️ Extend support to other datasets (e.g., COCO dataset).
-🤖 Add additional transformer-based models like ViT or BERT for Vision.
+- 🗂️ Extend support to other datasets (e.g., COCO dataset).
+- 🤖 Add additional transformer-based models like ViT or BERT for Vision.
